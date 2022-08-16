@@ -1,0 +1,6 @@
+.list-title{
+  background: linear-gradient(45deg, #1CB5E0, #21215c);
+  background-clip: border-box;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}

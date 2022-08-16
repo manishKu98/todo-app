@@ -1,0 +1,31 @@
+.Add-Task{
+    border: 1px solid rgb(21, 158, 212);
+    text-align: center;
+    width: 15rem;
+    
+}
+
+.Add-Task:hover{
+    background-color: rgb(210, 240, 252);
+}
+
+.title-field, .desc-field {
+    width: 25rem;
+    margin-left: 4rem;
+    text-align: center;
+    margin-bottom: 2rem !important;
+}
+
+.btn {
+    height: 2.5rem;
+    width: 5rem;      
+}
+
+.new-task{
+    margin: 0 0 16px 155px;
+    background: linear-gradient(90deg, #1CB5E0, #21215c);
+    background-clip: border-box;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+}
+
